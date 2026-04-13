@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.70710678"
-     inkscape:cx="634.27478"
-     inkscape:cy="1079.7521"
+     inkscape:cx="502.75292"
+     inkscape:cy="989.24239"
      inkscape:window-width="2496"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -90,6 +90,11 @@
        position="153.621,-2.0072723"
        orientation="1,0"
        id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="143.49701,-49.211352"
+       orientation="1,0"
+       id="guide1290"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -671,10 +676,10 @@
        style="color-interpolation-filters:sRGB"
        inkscape:label="Simple blend"
        id="filter20-2"
-       x="0"
+       x="-0.000262601"
        y="0"
-       width="1"
-       height="1">
+       width="1.0002626"
+       height="1.0004633">
       <feFlood
          result="flood1"
          flood-color="rgb(43,12,225)"
@@ -1610,7 +1615,7 @@
        xlink:href="#linearGradient17"
        id="linearGradient2674"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.69662146,0,0,1.0050597,649.51101,-226.38816)"
+       gradientTransform="matrix(0.69662146,0,0,1.0050597,656.38387,-225.57889)"
        x1="170.49472"
        y1="37.092369"
        x2="170.49472"
@@ -1620,7 +1625,7 @@
        xlink:href="#linearGradient17"
        id="linearGradient2675"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.69662146,0,0,1.0050597,433.05085,-251.8758)"
+       gradientTransform="matrix(0.69662146,0,0,1.0050597,415.77582,-253.9099)"
        x1="170.49472"
        y1="37.092369"
        x2="170.49472"
@@ -1630,7 +1635,7 @@
        xlink:href="#linearGradient17"
        id="linearGradient2676"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.69662146,0,0,1.0050597,420.43696,69.272964)"
+       gradientTransform="matrix(0.69662146,0,0,1.0050597,428.31779,70.200912)"
        x1="170.49472"
        y1="37.092369"
        x2="170.49472"
@@ -1640,7 +1645,7 @@
        xlink:href="#linearGradient17"
        id="linearGradient2677"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4895666,0,0,1.0050595,598.99019,-238.10372)"
+       gradientTransform="matrix(0.4895666,0,0,1.0050595,591.38229,-239.07876)"
        x1="170.49472"
        y1="37.092369"
        x2="170.49472"
@@ -2717,32 +2722,32 @@
            id="rect2674"
            width="38.985668"
            height="197.51877"
-           x="748.78845"
-           y="-189.10814"
+           x="755.66132"
+           y="-188.29887"
            transform="matrix(0.11696954,0.9931355,-0.99339295,0.11476257,0,0)" />
         <rect
            style="display:inline;opacity:1;fill:url(#linearGradient2675);stroke:none;stroke-width:0.745639"
            id="rect2675"
            width="38.985668"
            height="197.51877"
-           x="532.32831"
-           y="-214.59578"
+           x="515.05328"
+           y="-216.62988"
            transform="matrix(0.11696954,0.9931355,-0.99339295,0.11476257,0,0)" />
         <rect
            style="display:inline;opacity:1;fill:url(#linearGradient2676);stroke:none;stroke-width:0.745639"
            id="rect2676"
            width="38.985668"
            height="197.51877"
-           x="519.71442"
-           y="106.55299"
+           x="527.59528"
+           y="107.48094"
            transform="matrix(0.11696954,0.9931355,-0.99339295,0.11476257,0,0)" />
         <rect
            style="display:inline;opacity:1;fill:url(#linearGradient2677);stroke:none;stroke-width:0.625081"
            id="rect2677"
            width="27.398066"
            height="197.51874"
-           x="668.7597"
-           y="-200.8237"
+           x="661.15179"
+           y="-201.79874"
            transform="matrix(0.1271813,0.99187949,-0.99234908,0.12346379,0,0)" />
         <rect
            style="display:inline;opacity:1;fill:url(#linearGradient2678);stroke:none;stroke-width:0.625081"
@@ -3248,7 +3253,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1287);display:inline;fill:#000000" />
           <text
              xml:space="preserve"
-             transform="matrix(0.35915571,0,0,0.35915571,-14.224881,-48.075981)"
+             transform="matrix(0.35915571,0,0,0.35915571,-14.224881,-44.873451)"
              id="text1288"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1288);display:inline;fill:#000000"
              x="-665.1817"
@@ -3272,7 +3277,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1289);display:inline;fill:#000000" />
           <text
              xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,5.55625,30.691666)"
+             transform="matrix(0.26458333,0,0,0.26458333,5.55625,33.894196)"
              id="text1290"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1290);display:inline;fill:#000000"><tspan
                x="36"
@@ -3403,7 +3408,7 @@
            transform="matrix(1.9989233,0,0,1.9989233,0.43574882,-1.9940235e-6)">
           <text
              xml:space="preserve"
-             transform="matrix(0.35915571,0,0,0.35915571,146.48429,-58.329197)"
+             transform="matrix(0.35915571,0,0,0.35915571,146.48429,-66.113064)"
              id="text1291"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:0.9;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1294);display:inline;fill:#000000"
              x="-665.1817"
@@ -3417,7 +3422,7 @@
                id="tspan68">offers</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,166.25212,14.882203)"
+             transform="matrix(0.26458333,0,0,0.26458333,166.25212,7.0983357)"
              id="text1294"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1295);display:inline;fill:#000000"><tspan
                x="36"
@@ -3475,17 +3480,17 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'DeepMind Sans';-inkscape-font-specification:'DeepMind Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1296);display:inline;fill:#000000" />
           <text
              xml:space="preserve"
-             transform="matrix(0.35915571,0,0,0.35915571,146.48429,8.8561667)"
+             transform="matrix(0.35915571,0,0,0.35915571,146.48429,6.6849594)"
              id="text1312"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1313);display:inline;fill:#000000"
              x="-665.1817"
              y="0"><tspan
                x="79.195312"
                y="983.06288"
-               id="tspan86">Who should come?</tspan></text>
+               id="tspan86">Who should join?</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,166.25212,72.013403)"
+             transform="matrix(0.26458333,0,0,0.26458333,166.25212,75.426651)"
              id="text1315"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1316);display:inline;fill:#000000"><tspan
                x="36"
@@ -3512,7 +3517,7 @@
 </tspan></tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.3591557,0,0,0.3591557,146.803,47.935708)"
+             transform="matrix(0.3591557,0,0,0.3591557,146.803,52.87387)"
              id="text1375"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.4317px;line-height:0.9;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1380);display:inline;mix-blend-mode:normal;fill:#000000"
              x="-665.1817"
@@ -3525,7 +3530,7 @@
                id="tspan96">collective solutions</tspan></text>
           <g
              id="g1380"
-             transform="translate(160.33498,365.58112)"
+             transform="translate(160.33498,370.51928)"
              style="display:inline;mix-blend-mode:normal">
             <text
                xml:space="preserve"
@@ -3540,7 +3545,7 @@
 </tspan></tspan></text>
             <text
                xml:space="preserve"
-               transform="matrix(0.26458333,0,0,0.26458333,5.4119407,-228.38589)"
+               transform="matrix(0.26458333,0,0,0.26458333,5.4119407,-229.22779)"
                id="text1378"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:start;letter-spacing:0.3px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1382);display:inline;fill:#000000"><tspan
                  x="36"
@@ -3561,7 +3566,7 @@
           </g>
           <g
              id="g1279"
-             transform="translate(160.33498,365.58112)"
+             transform="translate(160.33498,370.51928)"
              style="display:inline;mix-blend-mode:normal">
             <text
                xml:space="preserve"
@@ -3579,6 +3584,32 @@
                    style="line-height:1;font-family:'DeepMind Sans';-inkscape-font-specification:'DeepMind Sans'"
                    id="tspan103">Not just problems—practical pathways forward:</tspan></tspan></text>
           </g>
+          <g
+             id="g1295"
+             inkscape:label="corners">
+            <path
+               style="display:inline;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.420028;stroke-dasharray:none;stroke-opacity:1"
+               d="M 19.571225,261.50181 H 5.2812388 v 14.28999"
+               id="path1289" />
+            <path
+               style="display:inline;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.420028;stroke-dasharray:none;stroke-opacity:1"
+               d="M 143.05828,275.79179 V 261.50181 H 128.76829"
+               id="path1290" />
+            <path
+               style="display:inline;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.420028;stroke-dasharray:none;stroke-opacity:1"
+               d="m 128.84123,461.19962 h 14.28998 v -14.28999"
+               id="path1292" />
+            <path
+               style="display:inline;mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:0.420028;stroke-dasharray:none;stroke-opacity:1"
+               d="m 5.2453142,446.8161 v 14.28998 H 19.535304"
+               id="path1295" />
+          </g>
+          <use
+             x="0"
+             y="0"
+             xlink:href="#g1295"
+             id="use1295"
+             transform="translate(148.43125)" />
         </g>
         <g
            inkscape:groupmode="layer"
